@@ -1,0 +1,38 @@
+{
+  "plugins": {
+    "diffview.nvim": {
+      "rev": "4516612fe98ff56ae0415a259ff6361a89419b0a",
+      "src": "https://github.com/sindrets/diffview.nvim"
+    },
+    "mini.nvim": {
+      "rev": "1345d191bb3da9c7b0e977f4387c5761f9bff68d",
+      "src": "https://github.com/nvim-mini/mini.nvim",
+      "version": "'stable'"
+    },
+    "neogit": {
+      "rev": "ba2f33b64b996ff5530c4c45a3c432fb63aaa95b",
+      "src": "https://github.com/NeogitOrg/neogit"
+    },
+    "obsidian.nvim": {
+      "rev": "15af492b64f4677959fe95008f1d5b782fe1f86a",
+      "src": "https://github.com/obsidian-nvim/obsidian.nvim",
+      "version": ">=0.0.0"
+    },
+    "oil.nvim": {
+      "rev": "d3733d933833a0e59b813ecec99341527adf0c28",
+      "src": "https://github.com/stevearc/oil.nvim"
+    },
+    "render-markdown.nvim": {
+      "rev": "8801162e041e34c64d0d1397cd1f353a14b01950",
+      "src": "https://github.com/MeanderingProgrammer/render-markdown.nvim"
+    },
+    "tree-sitter-manager.nvim": {
+      "rev": "06c90a3af8eb471f4a4ff979d681312284a8583a",
+      "src": "https://github.com/romus204/tree-sitter-manager.nvim"
+    },
+    "yoruakari.nvim": {
+      "rev": "5b0a8d70a35bf13f2bacba236086d4358ff28233",
+      "src": "https://github.com/gilpra/yoruakari.nvim"
+    }
+  }
+}
