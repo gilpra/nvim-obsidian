@@ -26,7 +26,7 @@ require("render-markdown").setup({
 
 		width = "block",
 		left_pad = 0,
-		right_pad = 1,
+		right_pad = { 1, 1, 2, 3, 4, 5 },
 
 		border = false,
 

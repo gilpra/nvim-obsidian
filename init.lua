@@ -2,8 +2,6 @@ vim.g.mapleader = " "
 vim.g.maplocalleader = " "
 
 require("vim._core.ui2").enable({})
-
--- This profile has its own NVIM_APPNAME, plugin directory, cache, and state.
 require("options")
 
 vim.pack.add({
@@ -28,6 +26,7 @@ require("plugins.diffview")
 require("plugins.neogit")
 
 require("autocmds")
+require("folding").setup()
 require("commands")
 require("keymaps")
 require("statusline")
